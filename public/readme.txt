@@ -1,0 +1,1 @@
+Archivos públicos como imágenes o assets
