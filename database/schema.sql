@@ -1,0 +1,1 @@
+-- Script de base de datos si se usa SQL
